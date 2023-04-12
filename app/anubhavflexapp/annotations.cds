@@ -55,3 +55,17 @@ annotate service.Travel with @(
      },
     ],
 );
+annotate service.Travel with @(
+    UI.HeaderInfo : {
+        TypeName : 'Travel',
+        TypeNamePlural : '{i18n>Travels}Travels',
+        Title : {
+            $Type : 'UI.DataField',
+            Value : TravelID,
+        },
+        Description : {
+            $Type : 'UI.DataField',
+            Value : Description,
+        },
+    }
+);
