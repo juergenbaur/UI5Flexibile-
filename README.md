@@ -1,4 +1,8 @@
 # SCPCFCorporateTraining
+# [LIVE] S01E01 SAP UI5 Flexibile Programming Model Training for Free || An introduction and setup
+https://www.youtube.com/watch?v=o4KcIsXSDKM
+
+
 SAP Cloud Platform Cloud Fondry Training for Corporates
 # SAP Business Technology platform Training 
 ## SAP Cloud Platform Training | SAP Cloud Foundry Training
