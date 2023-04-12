@@ -1,14 +1,9 @@
 # SCPCFCorporateTraining
-# [LIVE] S01E01 SAP UI5 Flexibile Programming Model Training for Free || An introduction and setup
+## [LIVE] S01E01 SAP UI5 Flexibile Programming Model Training for Free || An introduction and setup
 https://www.youtube.com/watch?v=o4KcIsXSDKM
 
+## [LIVE] S01E02 SAP UI5 Flexibile Programming Model || Create your First app and Filter Building block
+https://www.youtube.com/watch?v=5md3tBNKzu4&t=0s
 
-SAP Cloud Platform Cloud Fondry Training for Corporates
-# SAP Business Technology platform Training 
-## SAP Cloud Platform Training | SAP Cloud Foundry Training
-## SAP Cloud Application Programming Model Training
-## Final Code part of Anubhav Trainings CAPM Course
-
-https://www.anubhavtrainings.com/scp-cloud-platform-training
-
-![alt text](https://static.wixstatic.com/media/74c3a1_630acacc73ec437fa3b34f61373a0d70~mv2.gif)
+## [LIVE] S01E03 SAP UI5 Flexibile Programming Model || Adding table building block ui5 flex layout
+https://www.youtube.com/watch?v=ITLlBojnn4M
