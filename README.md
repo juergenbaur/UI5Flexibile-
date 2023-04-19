@@ -11,5 +11,8 @@ https://www.youtube.com/watch?v=ITLlBojnn4M
 ## [LIVE] S01E04 SAP UI5 Flexibile Programming Model || Adding Custom Controls Flex UI5
 https://www.youtube.com/watch?v=CrlSgwWzGX8
 
-##[LIVE] S01E06 SAP UI5 Flexibile Programming Model || Object Page in Flexible programming UI5
+## [LIVE] S01E05 SAP UI5 Flexibile Programming Model || Actions, Side effects and Core operation
+https://www.youtube.com/watch?v=N3xEw-emGQI
+
+## [LIVE] S01E06 SAP UI5 Flexibile Programming Model || Object Page in Flexible programming UI5
 https://www.youtube.com/watch?v=VVEqmEbDU5A
