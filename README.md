@@ -16,3 +16,6 @@ https://www.youtube.com/watch?v=N3xEw-emGQI
 
 ## [LIVE] S01E06 SAP UI5 Flexibile Programming Model || Object Page in Flexible programming UI5
 https://www.youtube.com/watch?v=VVEqmEbDU5A
+
+## [LIVE] S01E07 SAP UI5 Flexibile Programming Model || Adding Microchart to Object page table control
+https://www.youtube.com/watch?v=Ll1VZFKobMg
