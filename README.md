@@ -19,3 +19,9 @@ https://www.youtube.com/watch?v=VVEqmEbDU5A
 
 ## [LIVE] S01E07 SAP UI5 Flexibile Programming Model || Adding Microchart to Object page table control
 https://www.youtube.com/watch?v=Ll1VZFKobMg
+
+## [LIVE] S01E08 SAP UI5 Flexibile Programming Model || Adding Side Effect for Fields and Field Control
+https://www.youtube.com/watch?v=oVCuFHe_Nr0&list=PLcxqFaocb9WIqda2pkVFY4VKyeuLT2R8j&index=8
+
+## [LIVE] S01E09 SAP UI5 Flexibile Programming Model || Extend Object page Custom Section Building Blok
+https://www.youtube.com/watch?v=1qJbB5K1L2o&list=PLcxqFaocb9WIqda2pkVFY4VKyeuLT2R8j&index=9
