@@ -25,3 +25,6 @@ https://www.youtube.com/watch?v=oVCuFHe_Nr0&list=PLcxqFaocb9WIqda2pkVFY4VKyeuLT2
 
 ## [LIVE] S01E09 SAP UI5 Flexibile Programming Model || Extend Object page Custom Section Building Blok
 https://www.youtube.com/watch?v=1qJbB5K1L2o&list=PLcxqFaocb9WIqda2pkVFY4VKyeuLT2R8j&index=9
+
+## [LIVE] S01E10 SAP UI5 Flexibile Programming Model || Adding Chart Building block to the Object page
+https://www.youtube.com/watch?v=zSQtgVXvlLw
