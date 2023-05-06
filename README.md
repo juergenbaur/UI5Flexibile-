@@ -32,3 +32,7 @@ https://www.youtube.com/watch?v=zSQtgVXvlLw
 ## [LIVE] S01E11 SAP UI5 Flexibile Programming Model || Adding popover to chart selection
 https://www.youtube.com/watch?v=cpcYuo-9WTY
 
+## [LIVE] S01E12 SAP UI5 Flexibile Programming Model || Adding controller extension - Extend sap fiori
+https://m.youtube.com/watch?v=NFH3eSxWtYE
+
+
