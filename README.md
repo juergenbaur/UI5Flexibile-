@@ -35,4 +35,7 @@ https://www.youtube.com/watch?v=cpcYuo-9WTY
 ## [LIVE] S01E12 SAP UI5 Flexibile Programming Model || Adding controller extension - Extend sap fiori
 https://m.youtube.com/watch?v=NFH3eSxWtYE
 
+## [LIVE] S01E12 SAP UI5 Flexibile Programming Model || Adding controller extension - Extend sap fiori
+https://www.youtube.com/watch?v=NFH3eSxWtYE
+
 
